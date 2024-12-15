@@ -34,7 +34,7 @@ This project analyzes music data from Spotify and Genius to gain insights into s
 cd spotify-music-analysis
 
 
-2. Install required dependencies: pip install -r requirements.txt
+2. Install required dependencies: ```pip install -r requirements.txt```
 
 3. Set up API credentials:
 - Create or login to your account on spotify and genius.
